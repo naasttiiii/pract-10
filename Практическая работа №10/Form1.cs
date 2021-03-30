@@ -81,7 +81,7 @@ namespace Практическая_работа__10
 
         private void btnExit_Click(object sender, EventArgs e)
         {
-            this.Close();
+            this.Close();//закрыть форму
         }
     }
 
